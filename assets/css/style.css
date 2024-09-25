@@ -1,0 +1,32 @@
+.btn,
+.btn_two,
+.btn_three {
+    padding: 10px 45px;
+    background-color: rgb(62, 165, 62);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.container {
+    padding-top: 100px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.block-2 {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: center;
+}
+
+
+.block-3{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
